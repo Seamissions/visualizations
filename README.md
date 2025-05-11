@@ -1,2 +1,2 @@
 # visualizations
-A repo to host thevarious data visualisatoins for the project.
+A repository to host the code and rendered images of the various data visualizatoins for the project.
